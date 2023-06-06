@@ -1,1 +1,3 @@
-#!/bin/bash\necho "ALX School"\nHEAD
+#!/bin/bash
+echo "ALX School"
+ HEAD
